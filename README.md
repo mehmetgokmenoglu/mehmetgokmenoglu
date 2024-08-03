@@ -43,7 +43,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="Bird Wing Left.png">
-    <img align="center" src="[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehmetgokmenoglu)](https://github.com/anuraghazra/github-readme-stats)" alt="mehmetgokmenoglu" />
+    <img align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetgokmenoglu&theme=tokyonight)" />
     <img heigth="160" width="182" src="Bird Wing Right.png">
   </a>
 </p>
