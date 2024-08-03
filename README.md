@@ -1,2 +1,2 @@
 CodeWars:
-          ![codewars](https://www.codewars.com/users/mehmetgokmenoglu/badges/large)
+![codewars](https://www.codewars.com/users/mehmetgokmenoglu/badges/large)
