@@ -50,9 +50,9 @@
  
   
   
- <!--
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetgokmenoglu&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/mehmetgokmenoglu/github-readme-stats)
--->
+
 
 
 <br />
@@ -66,11 +66,8 @@
 <br />
 
 
-<!--
-</details>
--->
 
-<!--
+</details>
+
 <details>
    <summary>:zap: Languages and Tools</summary>
- -->
