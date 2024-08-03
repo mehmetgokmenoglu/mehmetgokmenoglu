@@ -9,8 +9,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-!(https://media2.giphy.com/media/j5mwjor5i5PGigmPH2/giphy.gif?cid=ecf05e478onofq2kfa5l2olhh0k6wh507p7q5s7mvp5np7qu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 # Github Stats
 
  <br />
