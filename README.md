@@ -42,9 +42,9 @@
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/mehmetgokmenoglu/mehmetgokmenoglu/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img heigth="160" width="182" src="Bird Wing Bottom Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetgokmenoglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mehmetgokmenoglu" />
-    <img heigth="160" width="182" src="https://github.com/mehmetgokmenoglu/mehmetgokmenoglu/blob/main/README.md/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="Bird Wing Bottom Right.png">
   </a>
 </p>
  
