@@ -1,4 +1,5 @@
-<div align="center"> ![codewars](https://www.codewars.com/users/mehmetgokmenoglu/badges/large)
+<div align="center"> 
+![codewars](https://www.codewars.com/users/mehmetgokmenoglu/badges/large)
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
