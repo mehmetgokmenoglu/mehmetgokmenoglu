@@ -43,16 +43,10 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="Bird Wing Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetgokmenoglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mehmetgokmenoglu" />
+    <img align="center" src="[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehmetgokmenoglu)](https://github.com/anuraghazra/github-readme-stats)" alt="mehmetgokmenoglu" />
     <img heigth="160" width="182" src="Bird Wing Right.png">
   </a>
 </p>
- 
-  
-  
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetgokmenoglu&theme=tokyonight)
-
 
 
 <br />
